@@ -55,7 +55,7 @@ If it doesn't work, keep reading.
 
 To benefit from improvements to the install script, consider rerunning it from time to time.
 
-1. Git fetch and pull to make sure you're up to date:
+1. Git fetch and pull to make sure you're up to date (from the standard `deck` user):
    1. `cd ~/deck-tailscale`
    2. `git pull`
 2. Run `sudo bash tailscale.sh` again.
